@@ -1,5 +1,8 @@
 # Development Road map (WIP)
 
+## Goals
+PS2 style arcade street racing game with a large open map and deep, extensive worldbuilding that can only be achieved through an open source project.
+
 ## Stage 0 <-- are here
 ### Goal
 Minimum viable product, demo, proof of concept, prototype, whatever
