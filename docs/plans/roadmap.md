@@ -11,9 +11,6 @@ Basic customization
 - one choice of body kit beyond stock for each car
 - a few colors
 
-Basic world generation
-- just some basic terrain is fine for now, as long as it is relatively drivable
-
 A car for each common drivetrain configuration
 - EG Civic (FF)
 - NSX (MR)
